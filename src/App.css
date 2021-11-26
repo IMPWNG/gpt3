@@ -27,8 +27,8 @@ a {
     /* global 92%+ browsers support */
     background:radial-gradient(circle at 3% 25%, rgba(255, 255, 0, 1) 0%, rgba(87, 90, 22, 1) 0%, rgba(0, 0, 0, 1) 100%, rgba(0, 0, 0, 1) 100%);
 }
-.grandient__text {
-    background: var( --gradient-text);
+.gradient__text {
+    background: var(--gradient-text);
     background-clip: text;
     -webkit-background-clop: text;
     -webkit-text-fill-color: transparent;
