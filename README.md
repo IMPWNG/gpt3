@@ -6,4 +6,6 @@ Creation of the navigation
 Nav done for multiple screen devices 
 Header section + responsive done
 
+Do the brand part 
+
 
