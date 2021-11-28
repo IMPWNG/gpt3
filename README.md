@@ -10,6 +10,7 @@ Header section + responsive done
 ## 27/11
 Brand section and whats is section done
 
-TODO - Future section 
+TODO - Blog Section
+ 
 
 
