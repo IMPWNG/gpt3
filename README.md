@@ -2,6 +2,8 @@
 ### [Live Site](https://impwng-gpt3.netlify.app/)
 
 ![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+[![Netlify Status](https://api.netlify.com/api/v1/badges/89b1c2a2-6614-42dd-97d5-27cb3b5ffd08/deploy-status)](https://app.netlify.com/sites/https://impwng-gpt3.netlify.app/deploys)
+
 
 Following a tutorial : 
 
