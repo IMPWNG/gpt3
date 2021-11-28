@@ -1,4 +1,7 @@
-# GPT3 Website - 30 Projects
+# GPT3 Moder UI/UX Website - 30 Projects
+### Live
+![Modern UI/UX GPT-3](https://i.ibb.co/TR5LW9z/image.png)
+
 
 ## 25/11
 Creation of the navigation 
@@ -10,7 +13,7 @@ Header section + responsive done
 ## 27/11
 Brand section and whats is section done
 
-TODO - Blog Section
+# Project :white_check_mark:
  
 
 
